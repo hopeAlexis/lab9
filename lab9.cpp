@@ -1,5 +1,5 @@
-//Вариант 5.
-//Найти площадь треугольника(по трем сторонам).
+//Variant 5
+//Find square surface of a triangle, using formula for three sides
 
 #include <iostream>
 
